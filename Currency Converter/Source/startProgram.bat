@@ -1,0 +1,1 @@
+java -jar '.\Currency Converter v1.2.jar'
