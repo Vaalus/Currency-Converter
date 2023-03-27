@@ -2,7 +2,6 @@
 Learning how to use JAVA
 
 
-1. Currency Converter v1.2 ULTRA {
+Currency Converter v1.2 ULTRA 
 use it if you want to convert between the following currencies offline:
-[ Turkish Liras , Argentine Pesos , Saudi Riyals,  US Dollars , Euros , Russian Ruble ]  
-}
+[ Turkish Liras , Argentine Pesos , Saudi Riyals,  US Dollars , Euros , Russian Ruble ]
