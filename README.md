@@ -1,2 +1,2 @@
 # ULTRA
-My small projects
+Learning how to use JAVA
