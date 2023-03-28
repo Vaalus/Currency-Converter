@@ -1,1 +1,1 @@
-java -jar '.\Currency Converter v1.2.jar'
+java -jar .\CCv1.3.jar
