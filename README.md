@@ -1,2 +1,1 @@
-# ULTRA
-Learning how to program using JAVA
+# Currency Converter V1.4 - LITE
