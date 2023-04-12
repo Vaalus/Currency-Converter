@@ -1,1 +1,0 @@
-java -jar .\CCv1.3.jar
